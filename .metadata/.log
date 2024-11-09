@@ -1,0 +1,300 @@
+!SESSION 2024-11-09 01:19:34.749 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-09 01:19:37.689
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 01:19:38.061
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 01:19:49.758
+!MESSAGE Logback config file: /home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 01:19:50.306
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 01:19:50.306
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 01:19:50.928
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 01:19:50.928
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:24.686
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:25.539
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:29.196
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:29.205
+!MESSAGE Boot project ADDED: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:29.205
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:29.242
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 01:20:29.278
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731126029276
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:29.278
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 01:20:29.283
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 16137
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:20:29.315
+!MESSAGE Classpath changed for project: kafka-producer
+!SESSION 2024-11-09 01:21:38.540 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-09 01:21:41.113
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 01:21:41.389
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 01:21:44.905
+!MESSAGE Logback config file: /home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 01:21:45.465
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 01:21:45.465
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 01:21:45.917
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 01:21:45.917
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:21:50.145
+!MESSAGE Boot project ADDED: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:21:50.146
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:21:50.205
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 01:21:50.248
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731126110247
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:21:50.249
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 01:21:50.305
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 16445
+!SESSION 2024-11-09 01:28:12.317 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-09 01:28:14.750
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 01:28:15.195
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-09 01:28:19.982
+!MESSAGE Logback config file: /home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 01:28:20.468
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 01:28:20.468
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-09 01:28:20.913
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-09 01:28:20.913
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:28:25.039
+!MESSAGE Boot project ADDED: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:28:25.040
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:28:25.076
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 01:28:25.093
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731126505092
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:28:25.094
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-09 01:28:25.119
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 18505
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:28:36.473
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:28:36.478
+!MESSAGE Boot project REMOVED: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:12.556
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-11-09 01:32:12.602
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:12.629
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:12.874
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:13.008
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-11-09 01:32:13.043
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-11-09 01:32:13.046
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:16.609
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:16.609
+!MESSAGE Boot project ADDED: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:18.367
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:18.368
+!MESSAGE Boot project ADDED: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:18.534
+!MESSAGE Classpath changed for project: kafka-producer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:20.972
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:32:20.973
+!MESSAGE Boot project REMOVED: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:33:40.837
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:33:59.707
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-11-09 01:33:59.712
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:33:59.749
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-11-09 01:33:59.751
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:34:00.700
+!MESSAGE Classpath changed for project: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:34:00.701
+!MESSAGE Boot project ADDED: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:35:31.284
+!MESSAGE Classpath changed for project: kafka-consumer2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2024-11-09 01:35:31.387
+!MESSAGE Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMavenProjectFacade.getArtifactKey()" because "facade" is null
+	at org.springframework.tooling.jdt.ls.commons.classpath.ClasspathUtil.createProjectBuild(ClasspathUtil.java:235)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:146)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:35:32.112
+!MESSAGE Classpath changed for project: kafka-consumer2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:35:32.112
+!MESSAGE Boot project ADDED: kafka-consumer2
