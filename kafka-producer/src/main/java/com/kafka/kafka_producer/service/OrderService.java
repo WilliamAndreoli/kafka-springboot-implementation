@@ -25,7 +25,7 @@ public class OrderService {
 		int partition = random.nextInt(2);
 		System.out.println("Sent message to parition: " + partition);
 		System.out.println("Sending Order: " + order.name());
-		kafkaTemplateOrder.send("napoleao-order-processed", partition, null, order);
+		kafkaTemplateOrder.send("teste-order-processed", partition, null, order);
 	}
 
 }

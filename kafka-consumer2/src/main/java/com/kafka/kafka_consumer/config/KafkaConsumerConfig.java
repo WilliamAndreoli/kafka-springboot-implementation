@@ -27,7 +27,7 @@ public class KafkaConsumerConfig {
 	public ConsumerFactory<String, OrderRecord> orderConsumerFactory() {
 		Map<String, Object> props = new HashMap<>();
 		props.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, bootstrapAddress);
-		props.put(ConsumerConfig.GROUP_ID_CONFIG, "napoleao-order-processed");
+		props.put(ConsumerConfig.GROUP_ID_CONFIG, "teste-order-processed");
 		props.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, ErrorHandlingDeserializer.class);
 		props.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, ErrorHandlingDeserializer.class);
 		props.put(ErrorHandlingDeserializer.KEY_DESERIALIZER_CLASS, JsonDeserializer.class);

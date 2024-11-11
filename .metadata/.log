@@ -298,3 +298,133 @@ java.lang.NullPointerException: Cannot invoke "org.eclipse.m2e.core.project.IMav
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-09 01:35:32.112
 !MESSAGE Boot project ADDED: kafka-consumer2
+!SESSION 2024-11-11 13:21:06.860 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-11 13:21:11.183
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-11 13:21:11.518
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-11 13:21:18.390
+!MESSAGE Logback config file: /home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-11 13:21:18.856
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-11 13:21:18.856
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-11 13:21:19.260
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-11 13:21:19.260
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-11 13:21:23.874
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731342083873
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:21:23.875
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-11 13:21:23.880
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 6420
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:21:25.440
+!MESSAGE Boot project ADDED: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:21:25.443
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:21:25.446
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:21:25.449
+!MESSAGE Boot project ADDED: kafka-consumer2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:21:25.449
+!MESSAGE Boot project ADDED: kafka-producer
+!SESSION 2024-11-11 13:24:35.799 -----------------------------------------------
+eclipse.buildId=4.22.0.202403071427
+java.version=17.0.10
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-11 13:24:37.663
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-11 13:24:37.933
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-11 13:24:50.929
+!MESSAGE Logback config file: /home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-11-11 13:24:51.610
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-11 13:24:51.610
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-11-11 13:24:52.099
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-11-11 13:24:52.099
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-11 13:24:57.271
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_17.0.10.v20240120-1143/jre/bin/java
+-cp
+/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/lib/*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:/opt/spring-tool-suite-4-4.22.0.RELEASE/sts-4.22.0.RELEASE/plugins/org.springframework.tooling.boot.ls_1.53.0.202403071323/servers/spring-boot-language-server/BOOT-INF/classes/application.properties
+-XX:ErrorFile=/home/william/Documentos/Desktop/Faculdade/2024.2/Tratamento_Dados/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1731342297270
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:24:57.272
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-11-11 13:24:57.278
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 8747
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:24:58.908
+!MESSAGE Boot project ADDED: kafka-consumer
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:24:58.909
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:24:58.917
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:24:58.919
+!MESSAGE Boot project ADDED: kafka-consumer2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-11-11 13:24:58.920
+!MESSAGE Boot project ADDED: kafka-producer

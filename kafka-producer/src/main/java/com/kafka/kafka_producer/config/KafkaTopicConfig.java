@@ -25,7 +25,7 @@ public class KafkaTopicConfig {
 	
 	@Bean
 	public NewTopic topicOrderProcessed() {
-		return new NewTopic("napoleao-order-processed", 2, (short) 1);
+		return new NewTopic("teste-order-processed", 2, (short) 1);
 	}
 	
 }
